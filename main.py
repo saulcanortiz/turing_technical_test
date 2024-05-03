@@ -65,7 +65,3 @@ class Kosmos2:
         data = {"is_person": self.is_person(image), "is_car": self.is_car(image),"description": self.description(image),
         "number_people": self.number_person(image), "number_car":self.number_car(image)}
         return data
-    
-kosmos2 = Kosmos2("microsoft/kosmos-2-patch14-224")
-image_filename = "image_1.jpg"
-print(kosmos2.json_output(image_name=image_filename))
