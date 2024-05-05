@@ -5,7 +5,11 @@ A gradio app has been dockerized. This app receives an image filename and output
 
 The main dependencies are: NLTK (natural language processing-NLP), transformers (NLP and computer vision), re (text matching), Pillow (image processing), and gradio (Machine Learning app dev).
 
-<div style="text-align: center">
-  <img src="image_1.jpg" alt="Input image.">
-</div>
+| Image | Caption |
+|---|---|
+| ![Image description](image_1.jpg) | Input image |
+
+| Image | Caption |
+|---|---|
+| ![Image description](image_gradio.png) | Gradio app |
 
