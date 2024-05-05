@@ -10,5 +10,5 @@ The main dependencies are: NLTK (natural language processing-NLP), transformers 
 </div>
 
 <div style="text-align:center;">
-    <img src="image_gradio.png" alt="Alt text" height="500" width="900"/>
+    <img src="image_gradio.png" alt="Alt text" height="500" width="1200"/>
 </div>
